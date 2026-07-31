@@ -22,9 +22,9 @@ Este caderno temático foi criado para organizar, resumir e facilitar o aprendiz
 
 Para garantir que a IA não "alucinasse", utilizei apenas materiais de fontes abertas e oficiais:
 
-1. **[PDF] Banco Central do Brasil** - Caderno de Educação Financeira (Gestão de Finanças Pessoais).
-2. **[PDF/Link] CVM Educacional** - Guia "Primeiros Passos em Investimentos".
-3. **[PDF/Link] Portal do Investidor** - Conceitos Básicos de Renda Fixa e Liquidez.
+1. **[Banco Central do Brasil](https://www.bcb.gov.br/cidadaniafinanceira/cadernos)** - Caderno de Educação Financeira (Gestão de Finanças Pessoais).
+2. **[CVM Educacional](https://www.investidor.gov.br/)** - Guia "Primeiros Passos em Investimentos".
+3. **[Portal do Investidor](https://www.investidor.gov.br/menu/primeiros_passos/investimentos.html)** - Conceitos Básicos de Renda Fixa e Liquidez.
 
 ---
 
